@@ -1,4 +1,5 @@
 🔐 Password Strength Checker
+
 This is a simple, yet effective password strength checker built with HTML, CSS, and JavaScript. The tool helps users evaluate the strength of their passwords by analyzing various factors such as length, use of numbers, symbols, and uppercase/lowercase letters.
 
 🌟 Features:
